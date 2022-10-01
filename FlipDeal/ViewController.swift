@@ -13,6 +13,14 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    func getMyData() {
+    }
+        
+        func myNewData()
+        {
+        
+    }
 
     func getMyName() {
         
